@@ -37,7 +37,7 @@ jsonwebtoken = { version = "9.1.0" }
 parking_lot = { workspace = true }
 pem = { version = "3.0.3" }
 restate-types = { workspace = true }
-ring = { version = "0.17.8" }
+ring = { version = "0.17.12" }
 rustls = { workspace = true }
 schemars = { workspace = true, optional = true }
 serde = { workspace = true }
