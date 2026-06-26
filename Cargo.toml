@@ -192,7 +192,7 @@ test-log = { version = "0.2.11", default-features = false, features = [
 toml = { version = "0.8.12" }
 tikv-jemallocator = "0.6"
 thiserror = "2.0"
-tokio = { version = "1.41.1", default-features = false, features = [
+tokio = { version = "1.43.1", default-features = false, features = [
     "rt-multi-thread",
     "signal",
     "macros",
